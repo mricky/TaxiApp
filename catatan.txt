@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=ENJfnyIfe-I
+Apa yang dipejari
+- Routing
+- Setup Redux
+  <DirectoryProject> 
+  npm install react-redux redux redux-thunk react-native-router-flux react-addons-update --save
+  npm install redux-logger --save-dev
